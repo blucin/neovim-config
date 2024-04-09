@@ -10,4 +10,4 @@ nvim
 ```
 
 ![neovim startup screen](./assets/startup.png)
-
+![neovim editor panel](./assets/editor.png)
